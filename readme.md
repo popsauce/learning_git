@@ -15,3 +15,12 @@ Repositories are sites which are used either as a folder or as a project area. S
 
 ### For adding a file
 >git add
+
+### For snapshot
+>git commit
+
+### For showing file differences
+>git diff
+
+### For list of file that are committed
+>git status
